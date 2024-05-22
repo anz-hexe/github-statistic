@@ -46,7 +46,7 @@ pip install -r requirements.txt
 To start the Streamlit application, run the following command:
 
 ```bash
-streamlit run main.py
+streamlit run src/main.py
 ```
 
 If using Docker, the application will be accessible at `http://localhost:8501` once the container is running.
